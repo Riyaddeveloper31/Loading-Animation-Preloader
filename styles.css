@@ -38,7 +38,7 @@ body {
       @keyframes lineGrow {to{width: 100%;}
     }
     .id{
-      display: flex
+      display:flex
     }
     .content{
       height: 970;
