@@ -38,11 +38,11 @@ body {
       @keyframes lineGrow {to{width: 100%;}
     }
     .id{
-      display:flex
+      display: flex
     }
     .content{
-      height: 970;
-      weight:550
+      height: 550;
+      weight:350
       
     }
     h1{
