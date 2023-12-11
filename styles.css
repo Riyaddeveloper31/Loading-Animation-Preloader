@@ -41,8 +41,8 @@ body {
       display: flex
     }
     .content{
-      height: 550;
-      weight:350
+      height: 350;
+      weight:350;
       
     }
     h1{
